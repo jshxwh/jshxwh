@@ -5,7 +5,8 @@
 </h1>
 
 <div align="center">
-<img src="https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif" />
+<img src="https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only" />
+<img src="https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only" />
 </div>
 
 <br>
