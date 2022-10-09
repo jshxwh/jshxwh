@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jshxwh/jshxwh/blob/output/snake.svg" alt="Snake animation" />
+https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif
 
 ###
