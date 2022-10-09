@@ -26,7 +26,7 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif" />
-
+</div>
 ###
