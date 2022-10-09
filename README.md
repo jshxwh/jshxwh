@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="180" widht="100" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-1483.gif"  />
+<img align="left" height="160" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-1483.gif"  />
 
 ###
 
@@ -25,3 +25,8 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jshxwh/jshxwh/blob/output/snake.svg" alt="Snake animation" />
+
+###
