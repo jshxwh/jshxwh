@@ -9,6 +9,8 @@
 
 <br>
 
+<hr>
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img align="left" width=390 src="https://streak-stats.demolab.com?user=jshxwh&theme=react&hide_border=true"/>
@@ -25,6 +27,8 @@
   </div>
 
 <br>
+
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
