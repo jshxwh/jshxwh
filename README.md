@@ -4,16 +4,10 @@
   </a>
 </h1>
 
-
-<h2 align="center"> Stats </h2>
-<br>
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jshxwh/jshxwh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jshxwh/jshxwh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br>
-
-<hr>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -32,7 +26,6 @@
 
 <br>
 
-<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
