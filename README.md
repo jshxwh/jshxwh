@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif
+<img src="https://github.com/jshxwh/jshxwh/blob/output/github-contribution-grid-snake.gif" />
 
 ###
