@@ -4,6 +4,10 @@
   </a>
 </h1>
 
+
+<h2 align="center"> Stats </h2>
+<br>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jshxwh/jshxwh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jshxwh/jshxwh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
