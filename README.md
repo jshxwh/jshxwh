@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img align="left" width=390 src="https://streak-stats.demolab.com?user=jshxwh&theme=dark&hide_border=true"/>
+    <img align="left" width=390 src="https://streak-stats.demolab.com?user=jshxwh&theme=react&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jshxwh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
