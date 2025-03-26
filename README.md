@@ -4,9 +4,7 @@
   </a>
 </h1>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jshxwh/jshxwh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/jshxwh/jshxwh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jshxwh)](https://git.io/streak-stats)
 <br>
 
 <div align="center">
